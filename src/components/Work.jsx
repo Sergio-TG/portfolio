@@ -2,9 +2,9 @@ import React from "react";
 import WorkItem from "./WorkItem";
 const data = [
   {
-    year: 2007,
+    year: "April 2007 - May 2023",
     title: "Holistor S.A. - DataSystem",
-    duration: "Currently Working",
+    duration: "16 years",
     details:
       "Advice to Professionals · Account management · Marketing of Errepar Systems and Accounting Management Holistor Software for Private and Public Companies · Sales Department · Onboarding · Analytical Skills · Training · Communication · Customer Service · Software as a Service (SaaS) · Presentation Skills · Business Operations · Business Administration · User support · Requirements Analysis",
   },

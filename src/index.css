@@ -5,3 +5,11 @@
 * {
     scroll-behavior: smooth;
 }
+
+.skills {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    text-align: center;
+
+}
