@@ -25,7 +25,6 @@ const Projects = () => {
                 <a href='https://sergio-tg.github.io/ProyectoFinal-JS/' target="_blank" rel="noopener noreferrer">
                 <ProjectItem img={fullstock} title='Full Stock Indumentaria' />
                 </a>
-                <ProjectItem img={citrinostore} title='Citrino Store' />
             </div>
         </div>
     )
