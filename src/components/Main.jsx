@@ -32,8 +32,9 @@ const Main = () => {
                         <a href="https://github.com/Sergio-TG" target='_blank' rel="noopener noreferrer">
                         <FaGithub className='cursor-pointer' size={20} />
                         </a>
+                        <a href="https://www.behance.net/sergiotg" target='_blank' rel="noopener noreferrer">
                         <FaBehance className='cursor-pointer' size={20} />
-
+                        </a>
                     </div>
                 </div>
             </div>
