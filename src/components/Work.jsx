@@ -2,7 +2,7 @@ import React from "react";
 import WorkItem from "./WorkItem";
 const data = [
   {
-    year: "April 2007 - May 2023",
+    year: "April 2007 - June 2023",
     title: "Holistor S.A. - DataSystem",
     duration: "16 years",
     details:
@@ -10,7 +10,7 @@ const data = [
   },
 
   {
-    year: 2006,
+    year: "March - September 2006",
     title: "Fundación Aarón Germán",
     duration: "7 months",
     details:
