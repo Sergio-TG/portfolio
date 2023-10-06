@@ -10,7 +10,7 @@ const Projects = () => {
         <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
             <h1 className='text-4xl font-bold text-center text-[#581845]'>Projects</h1>
             <p className='text-center py-8 text-justify'>
-                These are the projects I did during my career at Coderhouse and the last time was working on AccessBank July 2023 for No Country.
+                These are the projects I did during my career at Coderhouse and the last time was working on AccessBank from July to September 2023 for No Country.
                 If you are looking for a Front-End developer who can offer customized and high-quality solutions to your web project, do not hesitate
                 to contact me! I am ready to help you in any challenge you face in the world of web programming.
                 I have specialized in creating attractive and functional user interfaces that provide exceptional user experiences.

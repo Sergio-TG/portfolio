@@ -14,18 +14,10 @@ const Skills = () => {
         About & Skills
       </h1>
       <p className="text-center py-8 text-justify">
-        I'm a frontend web developer, with a strong affinity for technology and
-        a good disposition for teamwork. I'm collaborative with my work group
-        and support the company's goals. I adapt easily to organizational
-        changes. I have extensive experience and knowledge in the software and
-        services industry. I enjoy closely collaborating with designers, product
-        managers, and backend engineers to deliver well-designed, high-quality
-        user experiences and interfaces. I would like to work in a dynamic
-        environment and I'm capable of quickly adapting to changing requirements
-        and priorities.
+        I am a highly motivated individual with a passion for technology. As a skilled Frontend Web Developer specializing in React, I bring a wealth of expertise in crafting dynamic and user-friendly interfaces. Additionally, my proficiency extends to Project Management, where I excel in leading teams and overseeing projects. With a proven track record in software companies, IT services, B2B, B2C, and SaaS, as well as ERP, I am adept at navigating diverse landscapes. My collaborative attitude and strong teamwork skills have consistently added value to companies and projects, enabling them to achieve their objectives. I am confident that I can be a great asset to your team.
       </p>
       <div >
-        <img src={cv} alt="CV" className="flex justify-center mx-auto rounded-xl group-hover:opacity-10"  />
+        <img src={cv} alt="CV" className="flex justify-center mx-auto rounded-xl group-hover:opacity-10" />
       </div>
 
       <div className="grid gap-x-8 gap-y-4 grid-cols-5 text-1l ml-8 py-8 text-[#581845] flex justify-center mx-auto ">
@@ -75,8 +67,8 @@ const Skills = () => {
         <h1 className="text-[#581845]">
           <a
             href="https://drive.google.com/file/d/1bwvyiY5rwqQJzkcV3YjRVVNy5JBbe-UA/view?usp=drive_link"
-            target="_blank" 
-           >       
+            target="_blank"
+          >
             Download My CV
           </a>
         </h1>
