@@ -1,6 +1,14 @@
 import React from "react";
 import WorkItem from "./WorkItem";
 const data = [
+
+  {
+    year: "July - September 2023",
+    title: "No Country",
+    duration: "2 months",
+    details:
+      "Remote work emulation. I took part in Cohort 12 with my team, we developed a web project in React in one month for a Digital Bank. I accompanied the whole group, as well as generating some of the components in code, also as Project Manager. I acted as Team Leader for 3 responsible teams, which I accompanied so that they could complete their project! In August and September I took part in the second stage of Selected 10, as Project Manager, where we were given the challenge of creating an UBER clone. We focused on redesigning the website, implementing Mercado Pago and the Mapbox API for geolocation.",
+  },
   {
     year: "April 2007 - June 2023",
     title: "Holistor S.A. - DataSystem",
