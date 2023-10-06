@@ -16,7 +16,7 @@ const Main = () => {
                             sequence={[
                                 'a Frontend Web Developer', // Types 'One'
                                 1000, // Waits 1s
-                                'a Tech Lover', // Deletes 'One' and types 'Two'
+                                'a Project Manager', // Deletes 'One' and types 'Two'
                                 2000, // Waits 2s
                             ]}
                             wrapper='div'
