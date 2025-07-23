@@ -66,7 +66,7 @@ const Skills = () => {
       <div className="relative flex items-center justify-center shadow-xl shadow-grey-400 rounded-xl group hover:bg-gradient-to-r from-gray-200 to-[#581845]">
         <h1 className="text-[#581845]">
           <a
-            href="https://drive.google.com/file/d/1C2ck07yHSPdCzeZhuda2z7n9U3uQ5Add/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Q3XL-1dW_iBADu2c1TTD9oZnOoQe_Z79/view?usp=sharing"
             target="_blank" rel="noopener noreferrer"
           >
             Download My CV

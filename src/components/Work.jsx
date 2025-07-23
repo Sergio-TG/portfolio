@@ -18,9 +18,9 @@ const data = [
   },
 
   {
-    year: "March - September 2006",
-    title: "Fundación Aarón Germán",
-    duration: "7 months",
+    year: "February 2006 - March 2007",
+    title: "Aarón Germán Foundation",
+    duration: "1 year and 1 month",
     details:
       "Internship at the Stock Market Research Foundation · Purchase and Sale of Shares Public Securities through the Bolsar application · Technical sheet of negotiable obligations · Charts of historical series of prices and volumes · SQL Database Administration · Backup Systems · Data Entry · Creation of reports and graphs in Microsoft Excel · Microsoft VisualBasic · Technical Support · I was in charge of updating and configuring network computers with Windows operating system.",
   },
