@@ -1,4 +1,3 @@
-import React from "react";
 import { AiFillHtml5, AiFillGithub } from "react-icons/ai";
 import { DiCss3 } from "react-icons/di";
 import {
@@ -23,7 +22,7 @@ const Skills = () => {
       <h1 className="text-4xl font-bold text-center text-[#581845]">
         About & Skills
       </h1>
-      <p className="text-center py-8 text-justify">
+      <p className="py-8 text-justify">
         I am a highly motivated individual with a passion for technology. As a
         skilled Frontend Web Developer specializing in React, I bring a wealth
         of expertise in crafting dynamic and user-friendly interfaces.
@@ -43,7 +42,7 @@ const Skills = () => {
         />
       </div>
 
-      <div className="grid gap-x-8 gap-y-4 grid-cols-5 text-1l ml-8 py-8 text-[#581845] flex justify-center mx-auto ">
+      <div className="grid gap-x-8 gap-y-4 grid-cols-5 text-1l ml-8 py-8 text-[#581845] justify-center mx-auto ">
         <div>
           <AiFillHtml5 size={50} />
           HTML5
