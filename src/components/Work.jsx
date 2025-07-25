@@ -22,7 +22,7 @@ const data = [
     title: "Aarón Germán Foundation",
     duration: "1 year and 1 month",
     details:
-      "Internship at the Stock Market Research Foundation · Purchase and Sale of Shares Public Securities through the Bolsar application · Technical sheet of negotiable obligations · Charts of historical series of prices and volumes · SQL Database Administration · Backup Systems · Data Entry · Creation of reports and graphs in Microsoft Excel · Microsoft VisualBasic · Technical Support · I was in charge of updating and configuring network computers with Windows operating system.",
+      "Internship at the Stock Market Research Foundation · Executed stock and bond transactions using Bolsar’s real-time application · Technical sheet of negotiable obligations · Charts of historical series of prices and volumes · SQL Database Administration · Backup Systems · Data Entry · Creation of reports and graphs in Microsoft Excel · Microsoft VisualBasic · Technical Support · I was in charge of updating and configuring network computers with Windows Server operating system.",
   },
 ];
 const Work = () => {
